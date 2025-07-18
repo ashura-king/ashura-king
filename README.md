@@ -1,6 +1,6 @@
-## Hi  I'm Denzel Jay Benjamin
+## Hi  I'm Denzel Jay Benjamin    
   
-I'm a curious coder from Divine Word College of Legazpi 🎓  
+I'm currently study in Divine Word College of Legazpi 🎓  
 I love building apps, games, and helpful tools.  
 Slow Learner but always growing 🌱  
 
@@ -25,10 +25,9 @@ Slow Learner but always growing 🌱
 
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashura-king&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashura-king&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashura-king&layout=compact&theme=radical)
 
-### 📈 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashura-king&layout=compact&theme=radical)
+
 
 
 
