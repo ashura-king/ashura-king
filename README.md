@@ -1,4 +1,4 @@
-![Pixel Art](name.jpg)
+  ## ![Pixel Art](name.jpg)
   
   
 I'm currently study in Divine Word College of Legazpi 🎓  
