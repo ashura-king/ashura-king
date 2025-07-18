@@ -4,6 +4,10 @@ I'm a curious coder from Divine Word College of Legazpi 🎓
 I love building apps, games, and helpful tools.  
 Slow Learner but always growing 🌱  
 
+
+### 📊 GitHub Stats
+![Ashura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashura-king&show_icons=true&theme=radical)
+
 ### 💻 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -19,8 +23,6 @@ Slow Learner but always growing 🌱
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### 📊 GitHub Stats
-![Ashura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashura-king&show_icons=true&theme=radical)
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashura-king&theme=radical)
