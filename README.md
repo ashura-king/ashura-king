@@ -1,4 +1,5 @@
-## Hi  I'm Denzel Jay Benjamin    
+![Pixel Art](name.jpg)
+  
   
 I'm currently study in Divine Word College of Legazpi 🎓  
 I love building apps, games, and helpful tools.  
